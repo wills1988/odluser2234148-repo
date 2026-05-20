@@ -13,14 +13,13 @@
   "dependencies": {
     "consolidate": "^1.0.3",
     "del": "^7.1.0",
-    "express": "4.19.2",
+    "express": "4.20.0",
     "gulp": "^5.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-html-replace": "^1.6.2",
     "gulp-imagemin": "9.1.0",
     "gulp-uglify": "^3.0.2",
-    "mockery": "1.0.1",
     "mustache": "^4"
   }
 }
